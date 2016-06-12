@@ -1,7 +1,10 @@
 # README
 # Assignment: Getting and Cleaning Data Course Project
 
-This repository contains the files that are required to analyze the dataset "Human Activity Recognition Using Smartphones Dataset - Version 1.0" and the output of the analysis. 
+This repository contains the files that are required to analyze the dataset "Human Activity Recognition Using Smartphones Dataset - Version 1.0" and the output of the analysis.
+
+## Dependencies
+The following analysis requires data.table and dplyr packages.
 
 ## Analysis
 
